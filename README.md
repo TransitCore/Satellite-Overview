@@ -1,2 +1,2 @@
-# Satellite-Overview-Mod
+# Satellite-Overview
 Satellite Overview Mod for Subway Builder
